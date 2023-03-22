@@ -6,6 +6,6 @@ Studied and Analyzed the Drug efficacy Prediction dataset to applying Natural La
 GOOGLE COLAB NOTEBOOK LINK:https://colab.research.google.com/drive/1SoDC2wxfJVeE-CzrIq5s-Enmt6Yj-BE4#scrollTo=Y6_KZ3w0sjNZ
 
 
-PROJECT PRESENTATION LINKhttps://www.canva.com/design/DAFcHKK1Az4/VlaZBKv-LKRkDfSJSRILTA/view?utm_content=DAFcHKK1Az4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+PROJECT PRESENTATION LINK:https//www.canva.com/design/DAFcHKK1Az4/VlaZBKv-LKRkDfSJSRILTA/view?utm_content=DAFcHKK1Az4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
